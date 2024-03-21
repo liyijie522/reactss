@@ -1,0 +1,2 @@
+//ForCSSflowbite
+npm i flowbite-react
